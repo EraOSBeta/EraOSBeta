@@ -1,4 +1,13 @@
-### Hi there 👋
+### Heya! Welcome to my profile 👋
+I'm just a random game designer/programmer/modder you have stumbled upon. I hope we can be friends 🤗
+
+- 🧒 16
+- ♂️ he/him
+- ❤️ Linux fan
+- 🟣 Semi-professional Luau programmer (Roblox)
+- 💣 Semi-professional Python programmer (BombSquad/Ballistica)
+- 🌼 Newbie 3D modeler (Blender, ofc)
+- 🚀 Working on BombSquad: OVERCLOCKED
 
 <!--
 **EraOSBeta/EraOSBeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
