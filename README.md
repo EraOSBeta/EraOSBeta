@@ -1,13 +1,11 @@
 ### Heya! Welcome to my profile 👋
 I'm just a random game designer/programmer/modder you have stumbled upon. I hope we can be friends 🤗
 
-- 🧒 16
-- ♂️ he/him
-- ❤️ Linux fan
-- 🟣 Semi-professional Luau programmer (Roblox)
-- 💣 Semi-professional Python programmer (BombSquad/Ballistica)
-- 🌼 Newbie 3D modeler (Blender, ofc)
-- 🚀 Working on BombSquad: OVERCLOCKED
+- 🐧 Linux fan
+- 🐍 Semi-professional Python programmer ([BombSquad](https://play.google.com/store/apps/details?id=net.froemling.bombsquad&hl=en_US&gl=US)/[Ballistica](https://github.com/efroemling/ballistica))
+- 🟦 Semi-professional Luau programmer ([Roblox](https://roblox.com))
+- 🌼 Newbie 3D modeler ([Blender](https://blender.org), ofc)
+- 💣 Working on [BombSquad: OVERCLOCKED](https://gamejolt.com/games/overclocked/867312)
 
 ### Donations
 If you like what I do and would like to help me get an extra cup of tea, upgrade my setup, or take my imaginary girlfriend to a date, consider donating! (only accepting crypto rn, sorry!)
