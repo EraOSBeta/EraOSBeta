@@ -1,3 +1,5 @@
+## This account will mostly be inactive as I have migrated to [Codeberg](https://codeberg.org/3ra). All my personal projects will be hosted there; but this account will still be used for the purposes of contributing to other projects hosted on GitHub
+
 ### Heya! Welcome to my profile 👋
 I'm just a random game designer/programmer/modder you have stumbled upon. I hope we can be friends 🤗
 
